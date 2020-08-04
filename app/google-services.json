@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594415892266",
+    "firebase_url": "https://phone-numberauthenticati-32080.firebaseio.com",
+    "project_id": "phone-numberauthenticati-32080",
+    "storage_bucket": "phone-numberauthenticati-32080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594415892266:android:b775f0f036d2cd60511053",
+        "android_client_info": {
+          "package_name": "com.arifpurnama.phonenumberauthenticationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594415892266-u6t6vvan11dlsh49ac6sa8uk00r6oph6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOPx2YAcwK11qnEetQ5apfDIRFBHPIrGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594415892266-u6t6vvan11dlsh49ac6sa8uk00r6oph6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
